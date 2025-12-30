@@ -1,0 +1,8 @@
+helm:
+  parameters:
+  - name: image.repository
+    value: santhan29/sample-app
+    forcestring: true
+  - name: image.tag
+    value: 64c0b1e
+    forcestring: true
