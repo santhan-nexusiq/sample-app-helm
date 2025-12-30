@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: santhan29/sample-app 
-  tag: "4ad21fc"
+  tag: "be825c4"
 
 service:
   type: ClusterIP
