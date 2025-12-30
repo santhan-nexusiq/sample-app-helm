@@ -20,4 +20,4 @@ spec:
                   number: {{ $.Values.service.port }}
           {{- end }}
     {{- end }}
-{{- end }} 
+{{- end }}  
